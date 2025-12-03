@@ -182,7 +182,7 @@ hr {
 }
 
 .container {
-  width: 500px;
+  width: 620px;
   margin: 0 auto;
 }
 
@@ -227,7 +227,7 @@ hr {
   touch-action: none;
   background: #f67098;
   border-radius: 6px;
-  width: 500px;
+  width: 620px;
   height: 620px;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
